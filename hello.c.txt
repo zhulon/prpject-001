@@ -1,0 +1,10 @@
+#include<stdio.h>
+
+int main()
+{
+    int a;
+    char b;
+    scanf("%hhd %c",&a,&b);
+    printf("Hello world!%d,%c",a,b);
+    return 0;
+}
